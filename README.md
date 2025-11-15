@@ -1,5 +1,5 @@
 # Cách sử dụng
-1. Nhấn đúp vào tệp `index.html` để mở trang trong trình duyệt web của bạn.
+1. Truy cập [https://thanhduongnguyen.github.io/yoroi-midnight-transfer/](https://thanhduongnguyen.github.io/yoroi-midnight-transfer/)
 2. Điền địa chỉ ví Yoroi người cho và người nhận
 3. Tự động mở ví Yoroi để ký message, có thể kiểm tra lại nội dung message trước khi ký, đảm bảo nội dung là "Assign accumulated Scavenger rights to: <địa chỉ ví người nhận>"
 4. Sau khi ký xong, bên dưới hiển thị curl command để thực hiện gửi đến Scavenger.
